@@ -59,14 +59,13 @@ See /screenshots folder for full report evidence.
 Sameer Shaik — Mid-Level Data Analyst Portfolio
 LinkedIn: linkedin.com/in/iamsameershaik
 GitHub: github.com/iamsameershaik/pbi-portfolio
-```
 
 ---
 
 ## Step 6 — GitHub Commit
 
 In your terminal or GitHub Desktop:
-```
+
 git add .
 git commit -m "Project 01: Sales Performance Command Center — complete
 
