@@ -1,9 +1,13 @@
 # Data Source
 
 **Dataset:** UCI Online Retail II
+
 **Source:** UC Irvine Machine Learning Repository
+
 **URL:** https://archive.ics.uci.edu/dataset/502/online+retail+ii
+
 **Licence:** CC BY 4.0 — free to share and adapt with attribution
+
 **File:** online_retail_II.xlsx (~45MB — not committed due to file size)
 
 ## To Reproduce This Project
