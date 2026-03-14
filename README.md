@@ -64,3 +64,11 @@ Project 1 - Sales Performance Command Center:
 git remote add origin https://github.com/iamsameershaik/pbi-portfolio.git
 
 git push -u origin main
+
+---
+
+🚧 Portfolio currently under active development.
+
+> Project 1 complete. Projects 2 and 3 in progress.
+
+> Expected completion: 1st April 2026.
