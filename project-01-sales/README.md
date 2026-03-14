@@ -58,9 +58,9 @@ See /screenshots folder for full report evidence.
 ## Built By
 Sameer Shaik — Mid-Level Data Analyst Portfolio
 
-LinkedIn: [linkedin.com/in/iamsameershaik](linkedin.com/in/iamsameershaik)
+**LinkedIn:** [linkedin.com/in/iamsameershaik](https://www.linkedin.com/in/iamsameershaik/)
 
-GitHub: [github.com/iamsameershaik/pbi-portfolio](github.com/iamsameershaik/pbi-portfolio)
+**GitHub:** [github.com/iamsameershaik/pbi-portfolio](github.com/iamsameershaik/pbi-portfolio)
 
 ---
 
