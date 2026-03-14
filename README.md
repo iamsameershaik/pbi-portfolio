@@ -41,16 +41,16 @@ interactive report → business documentation.
 
 ## Contact
 
-**LinkedIn:** linkedin.com/in/iamsameershaik
-**GitHub:** github.com/iamsameershaik/pbi-portfolio
-```
+**LinkedIn:** [linkedin.com/in/iamsameershaik](linkedin.com/in/iamsameershaik)
+
+**GitHub:** [github.com/iamsameershaik/pbi-portfolio](github.com/iamsameershaik/pbi-portfolio)
 
 ---
 
 ## GitHub Commit Sequence
 
 Do this in order:
-```
+
 git init                          ← if not already a repo
 git add .
 git commit -m "Initial structure: portfolio scaffold + Project 1 complete
@@ -62,4 +62,5 @@ Project 1 - Sales Performance Command Center:
 - Full docs: data dictionary, KPI glossary, mini report"
 
 git remote add origin https://github.com/iamsameershaik/pbi-portfolio.git
+
 git push -u origin main
