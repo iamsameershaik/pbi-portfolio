@@ -43,7 +43,7 @@ interactive report → business documentation.
 
 **LinkedIn:** [linkedin.com/in/iamsameershaik](https://www.linkedin.com/in/iamsameershaik/)
 
-**GitHub:** [github.com/iamsameershaik/pbi-portfolio](github.com/iamsameershaik/pbi-portfolio)
+**GitHub:** [github.com/iamsameershaik/pbi-portfolio](https://www.github.com/iamsameershaik/pbi-portfolio)
 
 ---
 
