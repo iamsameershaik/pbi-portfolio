@@ -61,19 +61,3 @@ Sameer Shaik — Mid-Level Data Analyst Portfolio
 **LinkedIn:** [linkedin.com/in/iamsameershaik](https://www.linkedin.com/in/iamsameershaik/)
 
 **GitHub:** [github.com/iamsameershaik/pbi-portfolio](https://www.github.com/iamsameershaik/pbi-portfolio)
-
----
-
-## Step 6 — GitHub Commit
-
-In your terminal or GitHub Desktop:
-
-git add .
-git commit -m "Project 01: Sales Performance Command Center — complete
-
-- Star schema: factSales + dimDate + dimProduct + dimCustomer + dimTargets
-- 18 DAX measures across 5 groups
-- 5 report pages + drill-through + tooltip + bookmarks
-- Full documentation: data dictionary, KPI glossary, mini report"
-
-git push origin main
