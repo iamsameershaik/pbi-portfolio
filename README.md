@@ -15,7 +15,7 @@ interactive report → business documentation.
 | # | Project | Domain | Dataset | Status |
 |---|---------|--------|---------|--------|
 | 1 | [Sales Performance Command Center](./project-01-sales/) | Retail | UCI Online Retail II | ✅ Complete |
-| 2 | [Customer Retention & Churn Analytics](./project-02-customer/) | SaaS | IBM Telco Churn | 🔄 In Progress |
+| 2 | [Customer Retention & Churn Analytics](./project-02-customer/) | SaaS | IBM Telco Churn | ✅ Complete |
 | 3 | [Operations / SLA Dashboard](./project-03-operations/) | Service Ops | NYC 311 | 🔄 In Progress |
 
 ## Skills Demonstrated
@@ -41,16 +41,16 @@ interactive report → business documentation.
 
 ## Contact
 
-**LinkedIn:** linkedin.com/in/iamsameershaik
-**GitHub:** github.com/iamsameershaik/pbi-portfolio
-```
+**LinkedIn:** [linkedin.com/in/iamsameershaik](https://www.linkedin.com/in/iamsameershaik/)
+
+**GitHub:** [github.com/iamsameershaik/pbi-portfolio](https://www.github.com/iamsameershaik/pbi-portfolio)
 
 ---
 
 ## GitHub Commit Sequence
 
 Do this in order:
-```
+
 git init                          ← if not already a repo
 git add .
 git commit -m "Initial structure: portfolio scaffold + Project 1 complete
@@ -62,4 +62,13 @@ Project 1 - Sales Performance Command Center:
 - Full docs: data dictionary, KPI glossary, mini report"
 
 git remote add origin https://github.com/iamsameershaik/pbi-portfolio.git
+
 git push -u origin main
+
+---
+
+🚧 Portfolio currently under active development.
+
+> Projects 1 and 2 complete. Project 3 in progress.
+
+> Expected completion: 1st April 2026.
