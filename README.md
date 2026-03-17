@@ -47,26 +47,6 @@ interactive report → business documentation.
 
 ---
 
-## GitHub Commit Sequence
-
-Do this in order:
-
-git init                          ← if not already a repo
-git add .
-git commit -m "Initial structure: portfolio scaffold + Project 1 complete
-
-Project 1 - Sales Performance Command Center:
-- Star schema: factSales + dimDate + dimProduct + dimCustomer + dimTargets
-- 18 DAX measures: Revenue, Time Intelligence, Targets, Ranking, Returns
-- 5 report pages + drill-through + tooltip + bookmarks
-- Full docs: data dictionary, KPI glossary, mini report"
-
-git remote add origin https://github.com/iamsameershaik/pbi-portfolio.git
-
-git push -u origin main
-
----
-
 🚧 Portfolio currently under active development.
 
 > Projects 1 and 2 complete. Project 3 in progress.
