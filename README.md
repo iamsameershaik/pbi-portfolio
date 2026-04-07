@@ -51,4 +51,4 @@ interactive report → business documentation.
 
 > Projects 1 and 2 complete. Project 3 in progress.
 
-> Expected completion: 1st April 2026.
+> Expected completion: 1st May 2026.
